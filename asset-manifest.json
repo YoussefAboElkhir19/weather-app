@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/YoussefAboElkhir19/weather-app.git/static/css/main.df6a5342.css",
+    "main.js": "/YoussefAboElkhir19/weather-app.git/static/js/main.0542b077.js",
+    "static/media/bg.png": "/YoussefAboElkhir19/weather-app.git/static/media/bg.d18e8af5bac65a98cd80.png",
+    "index.html": "/YoussefAboElkhir19/weather-app.git/index.html",
+    "main.df6a5342.css.map": "/YoussefAboElkhir19/weather-app.git/static/css/main.df6a5342.css.map",
+    "main.0542b077.js.map": "/YoussefAboElkhir19/weather-app.git/static/js/main.0542b077.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df6a5342.css",
+    "static/js/main.0542b077.js"
+  ]
+}
